@@ -1,0 +1,14 @@
+play : 
+	Codigo HEX: 40BF00FF
+	Codigo DEC: 1086259455
+-----
+
+Ch- :
+	Codigo HEX: 40BF807F
+	Codigo DEC: 1086292095
+-----
+
+Ch+ :
+	Codigo HEX: 40BF40BF
+	Codigo DEC: 1086275775
+-----
